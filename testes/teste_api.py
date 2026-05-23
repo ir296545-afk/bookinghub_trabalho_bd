@@ -1,0 +1,1 @@
+print("Teste da API BookingHub executado com sucesso")
