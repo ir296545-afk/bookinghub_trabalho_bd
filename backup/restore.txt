@@ -1,0 +1,1 @@
+pg_restore -d bookinghub backup_bookinghub.backup
